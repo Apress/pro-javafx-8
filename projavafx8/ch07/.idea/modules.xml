@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayChangeEventExample/ArrayChangeEventExample.iml" filepath="$PROJECT_DIR$/ArrayChangeEventExample/ArrayChangeEventExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FXCollectionsExample/FXCollectionsExample.iml" filepath="$PROJECT_DIR$/FXCollectionsExample/FXCollectionsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXSceneInSWTExample/JavaFXSceneInSWTExample.iml" filepath="$PROJECT_DIR$/JavaFXSceneInSWTExample/JavaFXSceneInSWTExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXSceneInSwingExample/JavaFXSceneInSwingExample.iml" filepath="$PROJECT_DIR$/JavaFXSceneInSwingExample/JavaFXSceneInSwingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXThreadsExample/JavaFXThreadsExample.iml" filepath="$PROJECT_DIR$/JavaFXThreadsExample/JavaFXThreadsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListChangeEventExample/ListChangeEventExample.iml" filepath="$PROJECT_DIR$/ListChangeEventExample/ListChangeEventExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapChangeEventExample/MapChangeEventExample.iml" filepath="$PROJECT_DIR$/MapChangeEventExample/MapChangeEventExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoJavaFXSceneInSWTExample/NoJavaFXSceneInSWTExample.iml" filepath="$PROJECT_DIR$/NoJavaFXSceneInSWTExample/NoJavaFXSceneInSWTExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoJavaFXSceneInSwingExample/NoJavaFXSceneInSwingExample.iml" filepath="$PROJECT_DIR$/NoJavaFXSceneInSwingExample/NoJavaFXSceneInSwingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObservableListExample/ObservableListExample.iml" filepath="$PROJECT_DIR$/ObservableListExample/ObservableListExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResponsiveUIExample/ResponsiveUIExample.iml" filepath="$PROJECT_DIR$/ResponsiveUIExample/ResponsiveUIExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceExample/ServiceExample.iml" filepath="$PROJECT_DIR$/ServiceExample/ServiceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetChangeEventExample/SetChangeEventExample.iml" filepath="$PROJECT_DIR$/SetChangeEventExample/SetChangeEventExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwingComponentInJavaFXExample/SwingComponentInJavaFXExample.iml" filepath="$PROJECT_DIR$/SwingComponentInJavaFXExample/SwingComponentInJavaFXExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnresponsiveUIExample/UnresponsiveUIExample.iml" filepath="$PROJECT_DIR$/UnresponsiveUIExample/UnresponsiveUIExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkerAndTaskExample/WorkerAndTaskExample.iml" filepath="$PROJECT_DIR$/WorkerAndTaskExample/WorkerAndTaskExample.iml" />
+    </modules>
+  </component>
+</project>
+

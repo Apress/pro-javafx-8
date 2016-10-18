@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<fx:root type="javafx.scene.layout.HBox"
+         alignment="BASELINE_LEFT"
+         maxHeight="-Infinity"
+         maxWidth="-Infinity"
+         minHeight="-Infinity"
+         minWidth="-Infinity"
+         xmlns="http://javafx.com/javafx/8"
+         xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <TextField fx:id="prefix" prefColumnCount="1"/>
+        <Label text="-"/>
+        <TextField fx:id="prodCode" prefColumnCount="6"/>
+    </children>
+</fx:root>

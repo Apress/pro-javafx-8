@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CanvasExample/CanvasExample.iml" filepath="$PROJECT_DIR$/CanvasExample/CanvasExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EarthBox/EarthBox.iml" filepath="$PROJECT_DIR$/EarthBox/EarthBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EarthCylinder/EarthCylinder.iml" filepath="$PROJECT_DIR$/EarthCylinder/EarthCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EarthSphere/EarthSphere.iml" filepath="$PROJECT_DIR$/EarthSphere/EarthSphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First3DExample/First3DExample.iml" filepath="$PROJECT_DIR$/First3DExample/First3DExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageOpsExample/ImageOpsExample.iml" filepath="$PROJECT_DIR$/ImageOpsExample/ImageOpsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LightExample/LightExample.iml" filepath="$PROJECT_DIR$/LightExample/LightExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeshCube/MeshCube.iml" filepath="$PROJECT_DIR$/MeshCube/MeshCube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeshCubePickDemo/MeshCubePickDemo.iml" filepath="$PROJECT_DIR$/MeshCubePickDemo/MeshCubePickDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeshViewExample/MeshViewExample.iml" filepath="$PROJECT_DIR$/MeshViewExample/MeshViewExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerspectiveCameraExample/PerspectiveCameraExample.iml" filepath="$PROJECT_DIR$/PerspectiveCameraExample/PerspectiveCameraExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predefined3DShapesExample/Predefined3DShapesExample.iml" filepath="$PROJECT_DIR$/Predefined3DShapesExample/Predefined3DShapesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape3DPropertiesExample/Shape3DPropertiesExample.iml" filepath="$PROJECT_DIR$/Shape3DPropertiesExample/Shape3DPropertiesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpecularColorExample/SpecularColorExample.iml" filepath="$PROJECT_DIR$/SpecularColorExample/SpecularColorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SphereWithEvents/SphereWithEvents.iml" filepath="$PROJECT_DIR$/SphereWithEvents/SphereWithEvents.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:twitter="http://api.twitter.com/">
+  <channel>
+    <title>#javafx - Twitter Search</title>
+    <description>#javafx - Twitter Search</description>
+    <link>http://search.twitter.com/search?q=%23javafx</link>
+    <twitter:refresh_url>http://search.twitter.com/search.rss?since_id=147664680624717824&amp;q=%23javafx</twitter:refresh_url>
+    <pubDate>Fri, 16 Dec 2011 13:09:37 +0000</pubDate>
+    <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+    <item>
+      <title>RT @netbeans: Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/rajonjava/statuses/147664680624717824</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 13:09:37 +0000</pubDate>
+      <guid>http://twitter.com/rajonjava/statuses/147664680624717824</guid>
+      <author>rajonjava@twitter.com (Rajmahendra ( Raj ))</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/1242772158/Untitled-1_normal.jpg"/>
+      <google:image_link>http://a2.twimg.com/profile_images/1242772158/Untitled-1_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/julitolo/statuses/147660584312250368</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:53:21 +0000</pubDate>
+      <guid>http://twitter.com/julitolo/statuses/147660584312250368</guid>
+      <author>julitolo@twitter.com (Julio Lopez)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @javafx4you: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow http://t.co/iit6GO1P #JavaFX #JavaOne11</title>
+      <link>http://twitter.com/julitolo/statuses/147660371312918528</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/javafx4you"&gt;javafx4you&lt;/a&gt;: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow &lt;a href="http://t.co/iit6GO1P"&gt;http://t.co/iit6GO1P&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23JavaOne11" title="#JavaOne11" class=" "&gt;#JavaOne11&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:52:30 +0000</pubDate>
+      <guid>http://twitter.com/julitolo/statuses/147660371312918528</guid>
+      <author>julitolo@twitter.com (Julio Lopez)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>Thanks #JavaFX: Embedded browser for #NetBeans ow.ly/80uQm</title>
+      <link>http://twitter.com/virtual_saad/statuses/147659663146631168</link>
+      <description>Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; ow.ly/80uQm</description>
+      <pubDate>Fri, 16 Dec 2011 12:49:41 +0000</pubDate>
+      <guid>http://twitter.com/virtual_saad/statuses/147659663146631168</guid>
+      <author>virtual_saad@twitter.com (M.Saad Siddiqui)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/1310986550/Skype_Classic__1__normal.png"/>
+      <google:image_link>http://a2.twimg.com/profile_images/1310986550/Skype_Classic__1__normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/wahyusumartha/statuses/147658795412234240</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:46:14 +0000</pubDate>
+      <guid>http://twitter.com/wahyusumartha/statuses/147658795412234240</guid>
+      <author>wahyusumartha@twitter.com (wahyu sumartha)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1608870371/prereke_normal.jpg"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1608870371/prereke_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/netbeans/statuses/147658541589729281</link>
+      <description>Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:45:14 +0000</pubDate>
+      <guid>http://twitter.com/netbeans/statuses/147658541589729281</guid>
+      <author>netbeans@twitter.com (NetBeans Team)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/profile_images/1675296207/netbeans_redcube_72x_normal.png"/>
+      <google:image_link>http://a0.twimg.com/profile_images/1675296207/netbeans_redcube_72x_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>#javafx #jsf2 "@loiane: RT @jacobandresen: Friends don't let friends code flash. #ExtJS #fb"</title>
+      <link>http://twitter.com/filipeportes/statuses/147637701842178048</link>
+      <description>&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23jsf2" title="#jsf2" class=" "&gt;#jsf2&lt;/a&gt; "@&lt;a class=" " href="http://twitter.com/loiane"&gt;loiane&lt;/a&gt;: RT @&lt;a class=" " href="http://twitter.com/jacobandresen"&gt;jacobandresen&lt;/a&gt;: Friends don't let friends code flash. &lt;a href="http://search.twitter.com/search?q=%23ExtJS" title="#ExtJS" class=" "&gt;#ExtJS&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23fb" title="#fb" class=" "&gt;#fb&lt;/a&gt;"</description>
+      <pubDate>Fri, 16 Dec 2011 11:22:25 +0000</pubDate>
+      <guid>http://twitter.com/filipeportes/statuses/147637701842178048</guid>
+      <author>filipeportes@twitter.com (Filipe Portes)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a3.twimg.com/profile_images/1539760055/avatar_2_normal.jpg"/>
+      <google:image_link>http://a3.twimg.com/profile_images/1539760055/avatar_2_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>Hello JavaFX 2.0: Introduction by Command Line http://t.co/6qrsKRK6 via JavaWorld #JavaFX</title>
+      <link>http://twitter.com/javafx4you/statuses/147624544918700034</link>
+      <description>Hello JavaFX 2.0: Introduction by Command Line &lt;a href="http://t.co/6qrsKRK6"&gt;http://t.co/6qrsKRK6&lt;/a&gt; via JavaWorld &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 10:30:08 +0000</pubDate>
+      <guid>http://twitter.com/javafx4you/statuses/147624544918700034</guid>
+      <author>javafx4you@twitter.com (javafx4you)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png"/>
+      <google:image_link>http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @javafx4you: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow http://t.co/iit6GO1P #JavaFX #JavaOne11</title>
+      <link>http://twitter.com/Dredalious/statuses/147618217488166912</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/javafx4you"&gt;javafx4you&lt;/a&gt;: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow &lt;a href="http://t.co/iit6GO1P"&gt;http://t.co/iit6GO1P&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23JavaOne11" title="#JavaOne11" class=" "&gt;#JavaOne11&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 10:05:00 +0000</pubDate>
+      <guid>http://twitter.com/Dredalious/statuses/147618217488166912</guid>
+      <author>Dredalious@twitter.com (Dimitry)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/1624289540/image_normal.jpg"/>
+      <google:image_link>http://a2.twimg.com/profile_images/1624289540/image_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>The difference between animation timer, key frame, and actual frame rate is driving me bonkers. Any way to speed up animation timer? #javafx</title>
+      <link>http://twitter.com/Grimsaw/statuses/147582124793409536</link>
+      <description>The difference between animation timer, key frame, and actual frame rate is driving me bonkers. Any way to speed up animation timer? &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 07:41:35 +0000</pubDate>
+      <guid>http://twitter.com/Grimsaw/statuses/147582124793409536</guid>
+      <author>Grimsaw@twitter.com (Kent McClymont)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/118597124/cat_hello_normal.png"/>
+      <google:image_link>http://a2.twimg.com/profile_images/118597124/cat_hello_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>&#x304a;&#x3044;&#x3057;&#x3044;&#x5fd8;&#x5e74;&#x4f1a;&#x3001;&#x672c;&#x65e5;19&#x6642;&#x304b;&#x3089;&#x6075;&#x6bd4;&#x5bff;&#x30ac;&#x30fc;&#x30c7;&#x30f3;&#x30d7;&#x30ec;&#x30a4;&#x30b9; &#x30b0;&#x30e9;&#x30b9;&#x30b9;&#x30af;&#x30a8;&#x30a2;B1&#x3067;&#x3059;&#x3002;&#x3044;&#x307e;&#x304b;&#x3089;&#x3067;&#x3082;&#x9593;&#x306b;&#x5408;&#x3044;&#x307e;&#x3059;&#xff01;w &#x8001;&#x82e5;&#x7537;&#x5973;&#x5927;&#x6b53;&#x8fce;&#xff01; &#x5916;&#x56fd;&#x4eba;&#x306e;&#x65b9;&#x3082;&#x305c;&#x3072;&#xff01;  http://t.co/AyVlYF11 #java #javafx</title>
+      <link>http://twitter.com/challengejfx/statuses/147581976696725505</link>
+      <description>&#x304a;&#x3044;&#x3057;&#x3044;&#x5fd8;&#x5e74;&#x4f1a;&#x3001;&#x672c;&#x65e5;19&#x6642;&#x304b;&#x3089;&#x6075;&#x6bd4;&#x5bff;&#x30ac;&#x30fc;&#x30c7;&#x30f3;&#x30d7;&#x30ec;&#x30a4;&#x30b9; &#x30b0;&#x30e9;&#x30b9;&#x30b9;&#x30af;&#x30a8;&#x30a2;B1&#x3067;&#x3059;&#x3002;&#x3044;&#x307e;&#x304b;&#x3089;&#x3067;&#x3082;&#x9593;&#x306b;&#x5408;&#x3044;&#x307e;&#x3059;&#xff01;w &#x8001;&#x82e5;&#x7537;&#x5973;&#x5927;&#x6b53;&#x8fce;&#xff01; &#x5916;&#x56fd;&#x4eba;&#x306e;&#x65b9;&#x3082;&#x305c;&#x3072;&#xff01;  &lt;a href="http://t.co/AyVlYF11"&gt;http://t.co/AyVlYF11&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23java" title="#java" class=" "&gt;#java&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 07:40:59 +0000</pubDate>
+      <guid>http://twitter.com/challengejfx/statuses/147581976696725505</guid>
+      <author>challengejfx@twitter.com (Shingo T.)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/profile_images/1687096733/illbeback_normal.png"/>
+      <google:image_link>http://a0.twimg.com/profile_images/1687096733/illbeback_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: #NetBeans 7.1 and #JavaFX 2.0 in the spotlight in Brazil last week: http://t.co/DHIMnIyf</title>
+      <link>http://twitter.com/javafx4you/statuses/147571708520448001</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; 7.1 and &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; 2.0 in the spotlight in Brazil last week: &lt;a href="http://t.co/DHIMnIyf"&gt;http://t.co/DHIMnIyf&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 07:00:11 +0000</pubDate>
+      <guid>http://twitter.com/javafx4you/statuses/147571708520448001</guid>
+      <author>javafx4you@twitter.com (javafx4you)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png"/>
+      <google:image_link>http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>@0leGG &#x430; &#x43d;&#x430; &#x441;&#x430;&#x43c;&#x43e;&#x43c; &#x434;&#x435;&#x43b;&#x435;, &#x432; #javafx &#x445;&#x43e;&#x442;&#x44f;&#x442; &#x432;&#x43e;&#x437;&#x440;&#x43e;&#x434;&#x438;&#x442;&#x44c; &#x430;&#x43f;&#x43f;&#x43b;&#x435;&#x442;&#x44b; #JavaDayNovosibirsk</title>
+      <link>http://twitter.com/andy722/statuses/147558482353192960</link>
+      <description>@&lt;a class=" " href="http://twitter.com/0leGG"&gt;0leGG&lt;/a&gt; &#x430; &#x43d;&#x430; &#x441;&#x430;&#x43c;&#x43e;&#x43c; &#x434;&#x435;&#x43b;&#x435;, &#x432; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt; &#x445;&#x43e;&#x442;&#x44f;&#x442; &#x432;&#x43e;&#x437;&#x440;&#x43e;&#x434;&#x438;&#x442;&#x44c; &#x430;&#x43f;&#x43f;&#x43b;&#x435;&#x442;&#x44b; &lt;a href="http://search.twitter.com/search?q=%23JavaDayNovosibirsk" title="#JavaDayNovosibirsk" class=" "&gt;#JavaDayNovosibirsk&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 06:07:38 +0000</pubDate>
+      <guid>http://twitter.com/andy722/statuses/147558482353192960</guid>
+      <author>andy722@twitter.com (Andy Belsky)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/profile_images/428257466/ava1_normal.jpg"/>
+      <google:image_link>http://a0.twimg.com/profile_images/428257466/ava1_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>#JavaFX Need 50 questions each from all technologies - Project6 by MMSVA2010: Need 50 questions eac... http://t.co/LbbqfgiW #Programming</title>
+      <link>http://twitter.com/reconnect_Job/statuses/147557402735165440</link>
+      <description>&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; Need 50 questions each from all technologies - Project6 by MMSVA2010: Need 50 questions eac... &lt;a href="http://t.co/LbbqfgiW"&gt;http://t.co/LbbqfgiW&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23Programming" title="#Programming" class=" "&gt;#Programming&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 06:03:20 +0000</pubDate>
+      <guid>http://twitter.com/reconnect_Job/statuses/147557402735165440</guid>
+      <author>reconnect_Job@twitter.com (Programming Job)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png"/>
+      <google:image_link>http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: RT @javafx4you: eFX - #JavaFX RCP. A generic app framework based on #NetBeans Platform http://t.co/u1ZgsWKY</title>
+      <link>http://twitter.com/jug_c/statuses/147529651777052672</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: RT @&lt;a class=" " href="http://twitter.com/javafx4you"&gt;javafx4you&lt;/a&gt;: eFX - &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; RCP. A generic app framework based on &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; Platform &lt;a href="http://t.co/u1ZgsWKY"&gt;http://t.co/u1ZgsWKY&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 04:13:04 +0000</pubDate>
+      <guid>http://twitter.com/jug_c/statuses/147529651777052672</guid>
+      <author>jug_c@twitter.com (JavaUserGroupChennai)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1201287899/169627704_normal.png"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1201287899/169627704_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+  </channel>
+</rss><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:twitter="http://api.twitter.com/">
+  <channel>
+    <title>#javafx - Twitter Search</title>
+    <description>#javafx - Twitter Search</description>
+    <link>http://search.twitter.com/search?q=%23javafx</link>
+    <twitter:refresh_url>http://search.twitter.com/search.rss?since_id=147664680624717824&amp;q=%23javafx</twitter:refresh_url>
+    <pubDate>Fri, 16 Dec 2011 13:09:37 +0000</pubDate>
+    <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+    <item>
+      <title>RT @netbeans: Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/rajonjava/statuses/147664680624717824</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 13:09:37 +0000</pubDate>
+      <guid>http://twitter.com/rajonjava/statuses/147664680624717824</guid>
+      <author>rajonjava@twitter.com (Rajmahendra ( Raj ))</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/1242772158/Untitled-1_normal.jpg"/>
+      <google:image_link>http://a2.twimg.com/profile_images/1242772158/Untitled-1_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/julitolo/statuses/147660584312250368</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:53:21 +0000</pubDate>
+      <guid>http://twitter.com/julitolo/statuses/147660584312250368</guid>
+      <author>julitolo@twitter.com (Julio Lopez)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @javafx4you: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow http://t.co/iit6GO1P #JavaFX #JavaOne11</title>
+      <link>http://twitter.com/julitolo/statuses/147660371312918528</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/javafx4you"&gt;javafx4you&lt;/a&gt;: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow &lt;a href="http://t.co/iit6GO1P"&gt;http://t.co/iit6GO1P&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23JavaOne11" title="#JavaOne11" class=" "&gt;#JavaOne11&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:52:30 +0000</pubDate>
+      <guid>http://twitter.com/julitolo/statuses/147660371312918528</guid>
+      <author>julitolo@twitter.com (Julio Lopez)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1480501220/263079_1970788863691_1062068440_32296086_4168403_n_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>Thanks #JavaFX: Embedded browser for #NetBeans ow.ly/80uQm</title>
+      <link>http://twitter.com/virtual_saad/statuses/147659663146631168</link>
+      <description>Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; ow.ly/80uQm</description>
+      <pubDate>Fri, 16 Dec 2011 12:49:41 +0000</pubDate>
+      <guid>http://twitter.com/virtual_saad/statuses/147659663146631168</guid>
+      <author>virtual_saad@twitter.com (M.Saad Siddiqui)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/1310986550/Skype_Classic__1__normal.png"/>
+      <google:image_link>http://a2.twimg.com/profile_images/1310986550/Skype_Classic__1__normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/wahyusumartha/statuses/147658795412234240</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:46:14 +0000</pubDate>
+      <guid>http://twitter.com/wahyusumartha/statuses/147658795412234240</guid>
+      <author>wahyusumartha@twitter.com (wahyu sumartha)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1608870371/prereke_normal.jpg"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1608870371/prereke_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>Thanks #JavaFX: Embedded browser for #NetBeans http://t.co/j2fYznyQ</title>
+      <link>http://twitter.com/netbeans/statuses/147658541589729281</link>
+      <description>Thanks &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;: Embedded browser for &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; &lt;a href="http://t.co/j2fYznyQ"&gt;http://t.co/j2fYznyQ&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 12:45:14 +0000</pubDate>
+      <guid>http://twitter.com/netbeans/statuses/147658541589729281</guid>
+      <author>netbeans@twitter.com (NetBeans Team)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/profile_images/1675296207/netbeans_redcube_72x_normal.png"/>
+      <google:image_link>http://a0.twimg.com/profile_images/1675296207/netbeans_redcube_72x_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>#javafx #jsf2 "@loiane: RT @jacobandresen: Friends don't let friends code flash. #ExtJS #fb"</title>
+      <link>http://twitter.com/filipeportes/statuses/147637701842178048</link>
+      <description>&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23jsf2" title="#jsf2" class=" "&gt;#jsf2&lt;/a&gt; "@&lt;a class=" " href="http://twitter.com/loiane"&gt;loiane&lt;/a&gt;: RT @&lt;a class=" " href="http://twitter.com/jacobandresen"&gt;jacobandresen&lt;/a&gt;: Friends don't let friends code flash. &lt;a href="http://search.twitter.com/search?q=%23ExtJS" title="#ExtJS" class=" "&gt;#ExtJS&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23fb" title="#fb" class=" "&gt;#fb&lt;/a&gt;"</description>
+      <pubDate>Fri, 16 Dec 2011 11:22:25 +0000</pubDate>
+      <guid>http://twitter.com/filipeportes/statuses/147637701842178048</guid>
+      <author>filipeportes@twitter.com (Filipe Portes)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a3.twimg.com/profile_images/1539760055/avatar_2_normal.jpg"/>
+      <google:image_link>http://a3.twimg.com/profile_images/1539760055/avatar_2_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>Hello JavaFX 2.0: Introduction by Command Line http://t.co/6qrsKRK6 via JavaWorld #JavaFX</title>
+      <link>http://twitter.com/javafx4you/statuses/147624544918700034</link>
+      <description>Hello JavaFX 2.0: Introduction by Command Line &lt;a href="http://t.co/6qrsKRK6"&gt;http://t.co/6qrsKRK6&lt;/a&gt; via JavaWorld &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 10:30:08 +0000</pubDate>
+      <guid>http://twitter.com/javafx4you/statuses/147624544918700034</guid>
+      <author>javafx4you@twitter.com (javafx4you)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png"/>
+      <google:image_link>http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @javafx4you: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow http://t.co/iit6GO1P #JavaFX #JavaOne11</title>
+      <link>http://twitter.com/Dredalious/statuses/147618217488166912</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/javafx4you"&gt;javafx4you&lt;/a&gt;: JavaOne 2011 video: Pixel-Perfect JavaFX: Designer/Developer Workflow &lt;a href="http://t.co/iit6GO1P"&gt;http://t.co/iit6GO1P&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23JavaOne11" title="#JavaOne11" class=" "&gt;#JavaOne11&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 10:05:00 +0000</pubDate>
+      <guid>http://twitter.com/Dredalious/statuses/147618217488166912</guid>
+      <author>Dredalious@twitter.com (Dimitry)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/1624289540/image_normal.jpg"/>
+      <google:image_link>http://a2.twimg.com/profile_images/1624289540/image_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>The difference between animation timer, key frame, and actual frame rate is driving me bonkers. Any way to speed up animation timer? #javafx</title>
+      <link>http://twitter.com/Grimsaw/statuses/147582124793409536</link>
+      <description>The difference between animation timer, key frame, and actual frame rate is driving me bonkers. Any way to speed up animation timer? &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 07:41:35 +0000</pubDate>
+      <guid>http://twitter.com/Grimsaw/statuses/147582124793409536</guid>
+      <author>Grimsaw@twitter.com (Kent McClymont)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a2.twimg.com/profile_images/118597124/cat_hello_normal.png"/>
+      <google:image_link>http://a2.twimg.com/profile_images/118597124/cat_hello_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>&#x304a;&#x3044;&#x3057;&#x3044;&#x5fd8;&#x5e74;&#x4f1a;&#x3001;&#x672c;&#x65e5;19&#x6642;&#x304b;&#x3089;&#x6075;&#x6bd4;&#x5bff;&#x30ac;&#x30fc;&#x30c7;&#x30f3;&#x30d7;&#x30ec;&#x30a4;&#x30b9; &#x30b0;&#x30e9;&#x30b9;&#x30b9;&#x30af;&#x30a8;&#x30a2;B1&#x3067;&#x3059;&#x3002;&#x3044;&#x307e;&#x304b;&#x3089;&#x3067;&#x3082;&#x9593;&#x306b;&#x5408;&#x3044;&#x307e;&#x3059;&#xff01;w &#x8001;&#x82e5;&#x7537;&#x5973;&#x5927;&#x6b53;&#x8fce;&#xff01; &#x5916;&#x56fd;&#x4eba;&#x306e;&#x65b9;&#x3082;&#x305c;&#x3072;&#xff01;  http://t.co/AyVlYF11 #java #javafx</title>
+      <link>http://twitter.com/challengejfx/statuses/147581976696725505</link>
+      <description>&#x304a;&#x3044;&#x3057;&#x3044;&#x5fd8;&#x5e74;&#x4f1a;&#x3001;&#x672c;&#x65e5;19&#x6642;&#x304b;&#x3089;&#x6075;&#x6bd4;&#x5bff;&#x30ac;&#x30fc;&#x30c7;&#x30f3;&#x30d7;&#x30ec;&#x30a4;&#x30b9; &#x30b0;&#x30e9;&#x30b9;&#x30b9;&#x30af;&#x30a8;&#x30a2;B1&#x3067;&#x3059;&#x3002;&#x3044;&#x307e;&#x304b;&#x3089;&#x3067;&#x3082;&#x9593;&#x306b;&#x5408;&#x3044;&#x307e;&#x3059;&#xff01;w &#x8001;&#x82e5;&#x7537;&#x5973;&#x5927;&#x6b53;&#x8fce;&#xff01; &#x5916;&#x56fd;&#x4eba;&#x306e;&#x65b9;&#x3082;&#x305c;&#x3072;&#xff01;  &lt;a href="http://t.co/AyVlYF11"&gt;http://t.co/AyVlYF11&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23java" title="#java" class=" "&gt;#java&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 07:40:59 +0000</pubDate>
+      <guid>http://twitter.com/challengejfx/statuses/147581976696725505</guid>
+      <author>challengejfx@twitter.com (Shingo T.)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/profile_images/1687096733/illbeback_normal.png"/>
+      <google:image_link>http://a0.twimg.com/profile_images/1687096733/illbeback_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: #NetBeans 7.1 and #JavaFX 2.0 in the spotlight in Brazil last week: http://t.co/DHIMnIyf</title>
+      <link>http://twitter.com/javafx4you/statuses/147571708520448001</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; 7.1 and &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; 2.0 in the spotlight in Brazil last week: &lt;a href="http://t.co/DHIMnIyf"&gt;http://t.co/DHIMnIyf&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 07:00:11 +0000</pubDate>
+      <guid>http://twitter.com/javafx4you/statuses/147571708520448001</guid>
+      <author>javafx4you@twitter.com (javafx4you)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png"/>
+      <google:image_link>http://a1.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>@0leGG &#x430; &#x43d;&#x430; &#x441;&#x430;&#x43c;&#x43e;&#x43c; &#x434;&#x435;&#x43b;&#x435;, &#x432; #javafx &#x445;&#x43e;&#x442;&#x44f;&#x442; &#x432;&#x43e;&#x437;&#x440;&#x43e;&#x434;&#x438;&#x442;&#x44c; &#x430;&#x43f;&#x43f;&#x43b;&#x435;&#x442;&#x44b; #JavaDayNovosibirsk</title>
+      <link>http://twitter.com/andy722/statuses/147558482353192960</link>
+      <description>@&lt;a class=" " href="http://twitter.com/0leGG"&gt;0leGG&lt;/a&gt; &#x430; &#x43d;&#x430; &#x441;&#x430;&#x43c;&#x43e;&#x43c; &#x434;&#x435;&#x43b;&#x435;, &#x432; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23javafx" title="#javafx" class=" "&gt;#javafx&lt;/a&gt;&lt;/em&gt; &#x445;&#x43e;&#x442;&#x44f;&#x442; &#x432;&#x43e;&#x437;&#x440;&#x43e;&#x434;&#x438;&#x442;&#x44c; &#x430;&#x43f;&#x43f;&#x43b;&#x435;&#x442;&#x44b; &lt;a href="http://search.twitter.com/search?q=%23JavaDayNovosibirsk" title="#JavaDayNovosibirsk" class=" "&gt;#JavaDayNovosibirsk&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 06:07:38 +0000</pubDate>
+      <guid>http://twitter.com/andy722/statuses/147558482353192960</guid>
+      <author>andy722@twitter.com (Andy Belsky)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/profile_images/428257466/ava1_normal.jpg"/>
+      <google:image_link>http://a0.twimg.com/profile_images/428257466/ava1_normal.jpg</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>#JavaFX Need 50 questions each from all technologies - Project6 by MMSVA2010: Need 50 questions eac... http://t.co/LbbqfgiW #Programming</title>
+      <link>http://twitter.com/reconnect_Job/statuses/147557402735165440</link>
+      <description>&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; Need 50 questions each from all technologies - Project6 by MMSVA2010: Need 50 questions eac... &lt;a href="http://t.co/LbbqfgiW"&gt;http://t.co/LbbqfgiW&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23Programming" title="#Programming" class=" "&gt;#Programming&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 06:03:20 +0000</pubDate>
+      <guid>http://twitter.com/reconnect_Job/statuses/147557402735165440</guid>
+      <author>reconnect_Job@twitter.com (Programming Job)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png"/>
+      <google:image_link>http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+    <item>
+      <title>RT @netbeans: RT @javafx4you: eFX - #JavaFX RCP. A generic app framework based on #NetBeans Platform http://t.co/u1ZgsWKY</title>
+      <link>http://twitter.com/jug_c/statuses/147529651777052672</link>
+      <description>RT @&lt;a class=" " href="http://twitter.com/netbeans"&gt;netbeans&lt;/a&gt;: RT @&lt;a class=" " href="http://twitter.com/javafx4you"&gt;javafx4you&lt;/a&gt;: eFX - &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23JavaFX" title="#JavaFX" class=" "&gt;#JavaFX&lt;/a&gt;&lt;/em&gt; RCP. A generic app framework based on &lt;a href="http://search.twitter.com/search?q=%23NetBeans" title="#NetBeans" class=" "&gt;#NetBeans&lt;/a&gt; Platform &lt;a href="http://t.co/u1ZgsWKY"&gt;http://t.co/u1ZgsWKY&lt;/a&gt;</description>
+      <pubDate>Fri, 16 Dec 2011 04:13:04 +0000</pubDate>
+      <guid>http://twitter.com/jug_c/statuses/147529651777052672</guid>
+      <author>jug_c@twitter.com (JavaUserGroupChennai)</author>
+      <media:content type="image/jpg" height="48" width="48" url="http://a1.twimg.com/profile_images/1201287899/169627704_normal.png"/>
+      <google:image_link>http://a1.twimg.com/profile_images/1201287899/169627704_normal.png</google:image_link>
+      <twitter:metadata>
+        <twitter:result_type>recent</twitter:result_type>
+      </twitter:metadata>
+    </item>
+  </channel>
+</rss>

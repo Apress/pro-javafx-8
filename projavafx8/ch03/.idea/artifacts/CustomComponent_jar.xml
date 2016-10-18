@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CustomComponent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomComponent_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CustomComponent.jar">
+        <element id="module-output" name="CustomComponent" />
+      </element>
+    </root>
+  </artifact>
+</component>

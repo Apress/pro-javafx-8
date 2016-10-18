@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity"
+      maxWidth="-Infinity"
+      minHeight="-Infinity"
+      minWidth="-Infinity"
+      prefHeight="346.0"
+      prefWidth="384.0"
+      spacing="10.0"
+      xmlns="http://javafx.com/javafx/8"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="IncludeExampleDetailController">
+    <children>
+        <Label text="Category:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="category" text="[Category]" />
+        <Label text="Name:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="name" text="[Name]" />
+        <Label text="Description:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <TextArea fx:id="description"
+                  prefHeight="200.0"
+                  prefWidth="200.0"
+                  wrapText="true"
+                  VBox.vgrow="ALWAYS" />
+    </children>
+    <padding>
+        <Insets bottom="10.0" left="20.0" right="10.0" top="30.0" />
+    </padding>
+</VBox>

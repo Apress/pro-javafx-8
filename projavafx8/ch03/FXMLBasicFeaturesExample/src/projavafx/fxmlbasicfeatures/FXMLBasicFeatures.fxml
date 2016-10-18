@@ -1,0 +1,47 @@
+<?import javafx.scene.paint.Color?>
+<?import projavafx.fxmlbasicfeatures.FXMLBasicFeaturesBean?>
+<?import projavafx.fxmlbasicfeatures.Utilities?>
+<?import java.lang.Double?>
+<?import java.lang.Integer?>
+<?import java.lang.Long?>
+<?import java.util.HashMap?>
+<?import java.lang.String?>
+<FXMLBasicFeaturesBean name="John Smith"
+                       flag="true"
+                       count="12345"
+                       xmlns:fx="http://javafx.com/fxml/1">
+    <address>12345 Main St.</address>
+    <foreground>#ff8800</foreground>
+    <background>
+        <Color red="0.0" green="1.0" blue="0.5"/>
+    </background>
+    <price>
+        <Double fx:value="3.1415926"/>
+    </price>
+    <discount>
+        <Utilities fx:constant="TEN_PCT"/>
+    </discount>
+    <sizes>
+        <Utilities fx:factory="createList">
+            <Integer fx:value="1"/>
+            <Integer fx:value="2"/>
+            <Integer fx:value="3"/>
+        </Utilities>
+    </sizes>
+    <profits>
+        <HashMap q1="1000" q2="1100" q3="1200" a4="1300"/>
+    </profits>
+    <fx:define>
+        <Long fx:id="inv" fx:value="9765625"/>
+    </fx:define>
+    <inventory>
+        <fx:reference source="inv"/>
+    </inventory>
+    <products>
+        <String fx:value="widget"/>
+        <String fx:value="gadget"/>
+        <String fx:value="models"/>
+    </products>
+    <abbreviations CA="California" NY="New York" FL="Florida" MO="Missouri"/>
+
+</FXMLBasicFeaturesBean>

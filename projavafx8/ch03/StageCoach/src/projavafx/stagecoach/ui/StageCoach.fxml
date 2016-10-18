@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.Group?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Text?>
+<Group fx:id="rootGroup"
+       onMouseDragged="#mouseDraggedHandler"
+       onMousePressed="#mousePressedHandler"
+       xmlns="http://javafx.com/javafx/8"
+       xmlns:fx="http://javafx.com/fxml/1"
+       fx:controller="projavafx.stagecoach.ui.StageCoachController">
+    <children>
+        <Rectangle fx:id="blue"
+                   arcHeight="50.0"
+                   arcWidth="50.0"
+                   fill="SKYBLUE"
+                   height="350.0"
+                   strokeType="INSIDE"
+                   width="250.0"/>
+        <VBox fx:id="contentBox"
+              layoutX="30.0"
+              layoutY="20.0"
+              spacing="10.0">
+            <children>
+                <Text fx:id="textStageX"
+                      strokeType="OUTSIDE"
+                      strokeWidth="0.0"
+                      text="x:"
+                      textOrigin="TOP"/>
+                <Text fx:id="textStageY"
+                      layoutX="10.0"
+                      layoutY="23.0"
+                      strokeType="OUTSIDE"
+                      strokeWidth="0.0"
+                      text="y:"
+                      textOrigin="TOP"/>
+                <Text fx:id="textStageH"
+                      layoutX="10.0"
+                      layoutY="50.0"
+                      strokeType="OUTSIDE"
+                      strokeWidth="0.0"
+                      text="height:"
+                      textOrigin="TOP"/>
+                <Text fx:id="textStageW"
+                      layoutX="10.0"
+                      layoutY="77.0"
+                      strokeType="OUTSIDE"
+                      strokeWidth="0.0"
+                      text="width:"
+                      textOrigin="TOP"/>
+                <Text fx:id="textStageF"
+                      layoutX="10.0"
+                      layoutY="104.0"
+                      strokeType="OUTSIDE"
+                      strokeWidth="0.0"
+                      text="focused:"
+                      textOrigin="TOP"/>
+                <CheckBox fx:id="checkBoxResizable"
+                          mnemonicParsing="false"
+                          text="resizable"/>
+                <CheckBox fx:id="checkBoxFullScreen"
+                          mnemonicParsing="false"
+                          text="fullScreen"/>
+                <HBox fx:id="titleBox">
+                    <children>
+                        <Label fx:id="titleLabel"
+                               text="title"/>
+                        <TextField fx:id="titleTextField"
+                                   text="Stage Coach"/>
+                    </children>
+                </HBox>
+                <Button fx:id="toBackButton"
+                        mnemonicParsing="false"
+                        onAction="#toBackEventHandler"
+                        text="toBack()"/>
+                <Button fx:id="toFrontButton"
+                        mnemonicParsing="false"
+                        onAction="#toFrontEventHandler"
+                        text="toFront()"/>
+                <Button fx:id="closeButton"
+                        mnemonicParsing="false"
+                        onAction="#closeEventHandler"
+                        text="close()"/>
+            </children>
+        </VBox>
+    </children>
+</Group>

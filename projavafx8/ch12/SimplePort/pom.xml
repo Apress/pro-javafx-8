@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>projavafx</groupId>
+  <artifactId>simpleport</artifactId>
+  <name>ProJavaFX SimplePort</name>
+
+  <packaging>jar</packaging>
+
+  <version>1.0-SNAPSHOT</version>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.robovm</groupId>
+        <artifactId>robovm-maven-plugin</artifactId>
+        <version>0.0.13.1</version>
+        <configuration>
+          <config>
+            <mainClass>projavafx.SimplePortJFXLauncher</mainClass>
+          </config>
+          <includeJFX>true</includeJFX>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.robovm</groupId>
+      <artifactId>robovm-rt</artifactId>
+      <version>0.0.13</version>
+    </dependency>
+    <dependency>
+      <groupId>org.robovm</groupId>
+      <artifactId>robovm-cocoatouch</artifactId>
+      <version>0.0.13</version>
+    </dependency>
+  </dependencies>
+    <properties>
+        <maven.compiler.source>1.7</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+    </properties>
+</project>

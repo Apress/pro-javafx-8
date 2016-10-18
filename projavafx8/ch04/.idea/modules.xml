@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BidirectionalBindingExample/BidirectionalBindingExample.iml" filepath="$PROJECT_DIR$/BidirectionalBindingExample/BidirectionalBindingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeronsFormulaDirectExtensionExample/HeronsFormulaDirectExtensionExample.iml" filepath="$PROJECT_DIR$/HeronsFormulaDirectExtensionExample/HeronsFormulaDirectExtensionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeronsFormulaExample/HeronsFormulaExample.iml" filepath="$PROJECT_DIR$/HeronsFormulaExample/HeronsFormulaExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBeanPropertiesExample/JavaBeanPropertiesExample.iml" filepath="$PROJECT_DIR$/JavaBeanPropertiesExample/JavaBeanPropertiesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXBean/JavaFXBean.iml" filepath="$PROJECT_DIR$/JavaFXBean/JavaFXBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MotivatingExample/MotivatingExample.iml" filepath="$PROJECT_DIR$/MotivatingExample/MotivatingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumericPropertiesExample/NumericPropertiesExample.iml" filepath="$PROJECT_DIR$/NumericPropertiesExample/NumericPropertiesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RectangleAreaExample/RectangleAreaExample.iml" filepath="$PROJECT_DIR$/RectangleAreaExample/RectangleAreaExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectBindingExample/SelectBindingExample.iml" filepath="$PROJECT_DIR$/SelectBindingExample/SelectBindingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriangleAreaExample/TriangleAreaExample.iml" filepath="$PROJECT_DIR$/TriangleAreaExample/TriangleAreaExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriangleAreaFluentExample/TriangleAreaFluentExample.iml" filepath="$PROJECT_DIR$/TriangleAreaFluentExample/TriangleAreaFluentExample.iml" />
+    </modules>
+  </component>
+</project>
+

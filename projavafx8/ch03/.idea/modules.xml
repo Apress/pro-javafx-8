@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControllerFactoryExample/ControllerFactoryExample.iml" filepath="$PROJECT_DIR$/ControllerFactoryExample/ControllerFactoryExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomComponent/CustomComponent.iml" filepath="$PROJECT_DIR$/CustomComponent/CustomComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FXMLBasicFeaturesExample/FXMLBasicFeaturesExample.iml" filepath="$PROJECT_DIR$/FXMLBasicFeaturesExample/FXMLBasicFeaturesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FXMLInjectionExample/FXMLInjectionExample.iml" filepath="$PROJECT_DIR$/FXMLInjectionExample/FXMLInjectionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FXMLLoaderExample/FXMLLoaderExample.iml" filepath="$PROJECT_DIR$/FXMLLoaderExample/FXMLLoaderExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IncludeExample/IncludeExample.iml" filepath="$PROJECT_DIR$/IncludeExample/IncludeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResolutionAndBindingExample/ResolutionAndBindingExample.iml" filepath="$PROJECT_DIR$/ResolutionAndBindingExample/ResolutionAndBindingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScriptingExample/ScriptingExample.iml" filepath="$PROJECT_DIR$/ScriptingExample/ScriptingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StageCoach/StageCoach.iml" filepath="$PROJECT_DIR$/StageCoach/StageCoach.iml" />
+    </modules>
+  </component>
+</project>
+
