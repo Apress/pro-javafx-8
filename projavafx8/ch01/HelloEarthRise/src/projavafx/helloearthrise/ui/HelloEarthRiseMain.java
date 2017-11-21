@@ -111,7 +111,7 @@ public class HelloEarthRiseMain extends Application {
         scrollPane.setVbarPolicy(ScrollPane.ScrollBarPolicy.NEVER);
         scrollPane.setPannable(true);
         scrollPane.setContent(textRef);
-        
+        scrollPane.setStyle("-fx-background-color: transparent; -fx-background: transparent; ");
         
         // Combine ImageView and Group
         Group root = new Group(iv, scrollPane);
